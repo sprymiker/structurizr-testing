@@ -13,7 +13,9 @@ workspace "Top" {
                 !docs docs/system/container
 
                 Component1 = component "Component 1"
-                Component2 = component "Component 2"
+                Component2 = component "Component 2" {
+                    !docs docs/system/container/component
+                }
             }
         }
 

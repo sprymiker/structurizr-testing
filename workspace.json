@@ -2,10 +2,9 @@
   "id" : 1,
   "name" : "Top",
   "description" : "Description",
-  "lastModifiedDate" : "2023-06-20T19:32:31Z",
-  "lastModifiedAgent" : "structurizr-javascript",
+  "lastModifiedDate" : "2023-06-20T21:07:20Z",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlICJUb3AiIHsKCiAgICAhZG9jcyBkb2NzLwoKICAgIG1vZGVsIHsKCiAgICAgICAgU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIlN5c3RlbSIgIiIgewoKICAgICAgICAgICAgIWRvY3MgZG9jcy9zeXN0ZW0vCgogICAgICAgICAgICBDb250YWluZXIxID0gY29udGFpbmVyICJDb250YWluZXIgMSIKICAgICAgICAgICAgQ29udGFpbmVyMiA9IGNvbnRhaW5lciAiQ29udGFpbmVyIDIiIHsKICAgICAgICAgICAgICAgICFkb2NzIGRvY3Mvc3lzdGVtL2NvbnRhaW5lcgoKICAgICAgICAgICAgICAgIENvbXBvbmVudDEgPSBjb21wb25lbnQgIkNvbXBvbmVudCAxIgogICAgICAgICAgICAgICAgQ29tcG9uZW50MiA9IGNvbXBvbmVudCAiQ29tcG9uZW50IDIiCiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIEN1c3RvbUVsZW1lbnQgPSBlbGVtZW50ICJDdXN0b20gRWxlbWVudCIKCiAgICAgICAgQ29udGFpbmVyMSAtPiBDb250YWluZXIyCiAgICAgICAgQ29udGFpbmVyMiAtPiBjdXN0b21FbGVtZW50CgogICAgICAgIENvbXBvbmVudDEgLT4gQ29tcG9uZW50MgogICAgICAgIENvbXBvbmVudDIgLT4gY3VzdG9tRWxlbWVudAogICAgfQoKICAgIHZpZXdzIHsKICAgICAgICBzeXN0ZW1sYW5kc2NhcGUgIlN5c3RlbUxhbmRzY2FwZSIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b0xheW91dAogICAgICAgIH0KCiAgICAgICAgY29udGFpbmVyIFN5c3RlbSB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvTGF5b3V0CiAgICAgICAgfQoKICAgICAgICBjb21wb25lbnQgQ29udGFpbmVyMiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvTGF5b3V0CiAgICAgICAgfQoKCiAgICAgICAgc3R5bGVzIHsKICAgICAgICAgICAgZWxlbWVudCAiY3VzdG9tRWxlbWVudCIgewogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICAgICAgZm9udFNpemUgMjIKICAgICAgICAgICAgICAgIHNoYXBlIEZvbGRlcgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkNvbnRhaW5lciIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjOTk5OTk5CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiU29mdHdhcmUgU3lzdGVtIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM5OTk5OTkKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcHJvcGVydGllcyB7CiAgICAgICAgICAgIHN0cnVjdHVyaXpyLnNvcnQgImNyZWF0ZWQiCiAgICAgICAgICAgIHN0cnVjdHVyaXpyLnRvb2x0aXBzICJ0cnVlIgogICAgICAgICAgICBzdHJ1Y3R1cml6ci5lbnRlcnByaXNlQm91bmRhcnkgInRydWUiCgogICAgICAgICAgICAvLyBHZW5lcmF0cgogICAgICAgICAgICAiYzRwbGFudHVtbC5lbGVtZW50UHJvcGVydGllcyIgInRydWUiCiAgICAgICAgICAgICJnZW5lcmF0ci5tYXJrZG93bi5mbGV4bWFyay5leHRlbnNpb25zIiAiQWJicmV2aWF0aW9uLEFkbW9uaXRpb24sQW5jaG9yTGluayxBdHRyaWJ1dGVzLEF1dG9saW5rLERlZmluaXRpb24sRW1vamksRm9vdG5vdGVzLEdmbVRhc2tMaXN0LEdpdExhYixNZWRpYVRhZ3MsVGFibGVzLFRhYmxlT2ZDb250ZW50cyxUeXBvZ3JhcGhpYyIKICAgICAgICB9CiAgICB9CgogICAgLy8gc2VlIGh0dHBzOi8vZ2l0aHViLmNvbS9zdHJ1Y3R1cml6ci9kc2wtcGx1Z2lucy90cmVlL21haW4vc3JjL21haW4vamF2YS9jb20vc3RydWN0dXJpenIvZHNsL3BsdWdpbnMvcGxhbnR1bWwgZm9yIHBsdWdpbiBzb3VyY2UKICAgICFwbHVnaW4gcGxhbnR1bWwuUGxhbnRVTUxFbmNvZGVyUGx1Z2luIHsKICAgICAgICAicGxhbnR1bWwudXJsIiAiaHR0cHM6Ly93d3cucGxhbnR1bWwuY29tL3BsYW50dW1sIgogICAgfQoKICAgIC8vIHNlZSBodHRwczovL2dpdGh1Yi5jb20vc3RydWN0dXJpenIvZHNsLXBsdWdpbnMvdHJlZS9tYWluL3NyYy9tYWluL2phdmEvY29tL3N0cnVjdHVyaXpyL2RzbC9wbHVnaW5zL21lcm1haWQgZm9yIHBsdWdpbiBzb3VyY2UKICAgICFwbHVnaW4gbWVybWFpZC5NZXJtYWlkRW5jb2RlclBsdWdpbiB7CiAgICAgICAgIm1lcm1haWQudXJsIiAiaHR0cHM6Ly9tZXJtYWlkLmluayIKICAgIH0KCn0K"
+    "structurizr.dsl" : "d29ya3NwYWNlICJUb3AiIHsKCiAgICAhZG9jcyBkb2NzLwoKICAgIG1vZGVsIHsKCiAgICAgICAgU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIlN5c3RlbSIgIiIgewoKICAgICAgICAgICAgIWRvY3MgZG9jcy9zeXN0ZW0vCgogICAgICAgICAgICBDb250YWluZXIxID0gY29udGFpbmVyICJDb250YWluZXIgMSIKICAgICAgICAgICAgQ29udGFpbmVyMiA9IGNvbnRhaW5lciAiQ29udGFpbmVyIDIiIHsKICAgICAgICAgICAgICAgICFkb2NzIGRvY3Mvc3lzdGVtL2NvbnRhaW5lcgoKICAgICAgICAgICAgICAgIENvbXBvbmVudDEgPSBjb21wb25lbnQgIkNvbXBvbmVudCAxIgogICAgICAgICAgICAgICAgQ29tcG9uZW50MiA9IGNvbXBvbmVudCAiQ29tcG9uZW50IDIiIHsKICAgICAgICAgICAgICAgICAgICAhZG9jcyBkb2NzL3N5c3RlbS9jb250YWluZXIvY29tcG9uZW50CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIEN1c3RvbUVsZW1lbnQgPSBlbGVtZW50ICJDdXN0b20gRWxlbWVudCIKCiAgICAgICAgQ29udGFpbmVyMSAtPiBDb250YWluZXIyCiAgICAgICAgQ29udGFpbmVyMiAtPiBjdXN0b21FbGVtZW50CgogICAgICAgIENvbXBvbmVudDEgLT4gQ29tcG9uZW50MgogICAgICAgIENvbXBvbmVudDIgLT4gY3VzdG9tRWxlbWVudAogICAgfQoKICAgIHZpZXdzIHsKICAgICAgICBzeXN0ZW1sYW5kc2NhcGUgIlN5c3RlbUxhbmRzY2FwZSIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b0xheW91dAogICAgICAgIH0KCiAgICAgICAgY29udGFpbmVyIFN5c3RlbSB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvTGF5b3V0CiAgICAgICAgfQoKICAgICAgICBjb21wb25lbnQgQ29udGFpbmVyMiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvTGF5b3V0CiAgICAgICAgfQoKCiAgICAgICAgc3R5bGVzIHsKICAgICAgICAgICAgZWxlbWVudCAiY3VzdG9tRWxlbWVudCIgewogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICAgICAgZm9udFNpemUgMjIKICAgICAgICAgICAgICAgIHNoYXBlIEZvbGRlcgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkNvbnRhaW5lciIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjOTk5OTk5CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiU29mdHdhcmUgU3lzdGVtIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM5OTk5OTkKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcHJvcGVydGllcyB7CiAgICAgICAgICAgIHN0cnVjdHVyaXpyLnNvcnQgImNyZWF0ZWQiCiAgICAgICAgICAgIHN0cnVjdHVyaXpyLnRvb2x0aXBzICJ0cnVlIgogICAgICAgICAgICBzdHJ1Y3R1cml6ci5lbnRlcnByaXNlQm91bmRhcnkgInRydWUiCgogICAgICAgICAgICAvLyBHZW5lcmF0cgogICAgICAgICAgICAiYzRwbGFudHVtbC5lbGVtZW50UHJvcGVydGllcyIgInRydWUiCiAgICAgICAgICAgICJnZW5lcmF0ci5tYXJrZG93bi5mbGV4bWFyay5leHRlbnNpb25zIiAiQWJicmV2aWF0aW9uLEFkbW9uaXRpb24sQW5jaG9yTGluayxBdHRyaWJ1dGVzLEF1dG9saW5rLERlZmluaXRpb24sRW1vamksRm9vdG5vdGVzLEdmbVRhc2tMaXN0LEdpdExhYixNZWRpYVRhZ3MsVGFibGVzLFRhYmxlT2ZDb250ZW50cyxUeXBvZ3JhcGhpYyIKICAgICAgICB9CiAgICB9CgogICAgLy8gc2VlIGh0dHBzOi8vZ2l0aHViLmNvbS9zdHJ1Y3R1cml6ci9kc2wtcGx1Z2lucy90cmVlL21haW4vc3JjL21haW4vamF2YS9jb20vc3RydWN0dXJpenIvZHNsL3BsdWdpbnMvcGxhbnR1bWwgZm9yIHBsdWdpbiBzb3VyY2UKICAgICFwbHVnaW4gcGxhbnR1bWwuUGxhbnRVTUxFbmNvZGVyUGx1Z2luIHsKICAgICAgICAicGxhbnR1bWwudXJsIiAiaHR0cHM6Ly93d3cucGxhbnR1bWwuY29tL3BsYW50dW1sIgogICAgfQoKICAgIC8vIHNlZSBodHRwczovL2dpdGh1Yi5jb20vc3RydWN0dXJpenIvZHNsLXBsdWdpbnMvdHJlZS9tYWluL3NyYy9tYWluL2phdmEvY29tL3N0cnVjdHVyaXpyL2RzbC9wbHVnaW5zL21lcm1haWQgZm9yIHBsdWdpbiBzb3VyY2UKICAgICFwbHVnaW4gbWVybWFpZC5NZXJtYWlkRW5jb2RlclBsdWdpbiB7CiAgICAgICAgIm1lcm1haWQudXJsIiAiaHR0cHM6Ly9tZXJtYWlkLmluayIKICAgIH0KCn0K"
   },
   "configuration" : { },
   "model" : {
@@ -63,7 +62,15 @@
             "sourceId" : "5",
             "destinationId" : "6"
           } ],
-          "documentation" : { }
+          "documentation" : {
+            "sections" : [ {
+              "content" : "## Component Level\n\n\nHello Component Level\n\n\n![](https://www.plantuml.com/plantuml/svg/SyfFqhLppCbCJbMmKl18pSd9L-G20000)\n\n![](https://mermaid.ink/svg/eyAiY29kZSI6ImdyYXBoIFREO1xuQS0tPkI7XG5BLS0+QztcbkItLT5EO1xuQy0tPkQ7XG4iLCAibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQiLCAic2VjdXJpdHlMZXZlbCI6ICJsb29zZSJ9fQ==)\n",
+              "format" : "Markdown",
+              "filename" : "component.level.md",
+              "order" : 1,
+              "title" : ""
+            } ]
+          }
         }, {
           "id" : "4",
           "tags" : "Element,Component",
@@ -81,7 +88,7 @@
         } ],
         "documentation" : {
           "sections" : [ {
-            "content" : "## Container Level\n\n\nHello Container Level\n\n\n```plantuml\nBob->Alice : Hello!\n```\n\n```mermaid\ngraph TD;\n  A-->B;\n  A-->C;\n  B-->D;\n  C-->D;\n```",
+            "content" : "## Container Level\n\n\nHello Container Level\n\n\n![](https://www.plantuml.com/plantuml/svg/SyfFqhLppCbCJbMmKl18pSd9L-G20000)\n\n![](https://mermaid.ink/svg/eyAiY29kZSI6ImdyYXBoIFREO1xuQS0tPkI7XG5BLS0+QztcbkItLT5EO1xuQy0tPkQ7XG4iLCAibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQiLCAic2VjdXJpdHlMZXZlbCI6ICJsb29zZSJ9fQ==)\n",
             "format" : "Markdown",
             "filename" : "container.level.md",
             "order" : 1,
@@ -121,10 +128,6 @@
     "systemLandscapeViews" : [ {
       "key" : "SystemLandscape",
       "order" : 1,
-      "dimensions" : {
-        "width" : 850,
-        "height" : 1300
-      },
       "automaticLayout" : {
         "implementation" : "Graphviz",
         "rankDirection" : "TopBottom",
@@ -134,27 +137,23 @@
         "vertices" : false
       },
       "enterpriseBoundaryVisible" : true,
-      "relationships" : [ {
-        "id" : "9"
-      } ],
       "elements" : [ {
         "id" : "1",
-        "x" : 199,
-        "y" : 200
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "6",
-        "x" : 199,
-        "y" : 800
+        "x" : 0,
+        "y" : 0
+      } ],
+      "relationships" : [ {
+        "id" : "9"
       } ]
     } ],
     "containerViews" : [ {
       "key" : "Container-001",
       "order" : 2,
       "softwareSystemId" : "1",
-      "dimensions" : {
-        "width" : 890,
-        "height" : 1920
-      },
       "automaticLayout" : {
         "implementation" : "Graphviz",
         "rankDirection" : "TopBottom",
@@ -164,32 +163,28 @@
         "vertices" : false
       },
       "externalSoftwareSystemBoundariesVisible" : true,
+      "elements" : [ {
+        "id" : "2",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "3",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "6",
+        "x" : 0,
+        "y" : 0
+      } ],
       "relationships" : [ {
         "id" : "7"
       }, {
         "id" : "8"
-      } ],
-      "elements" : [ {
-        "id" : "2",
-        "x" : 220,
-        "y" : 219
-      }, {
-        "id" : "3",
-        "x" : 220,
-        "y" : 819
-      }, {
-        "id" : "6",
-        "x" : 220,
-        "y" : 1419
       } ]
     } ],
     "componentViews" : [ {
       "key" : "Component-001",
       "order" : 3,
-      "dimensions" : {
-        "width" : 960,
-        "height" : 1920
-      },
       "automaticLayout" : {
         "implementation" : "Graphviz",
         "rankDirection" : "TopBottom",
@@ -200,23 +195,23 @@
       },
       "containerId" : "3",
       "externalContainerBoundariesVisible" : true,
+      "elements" : [ {
+        "id" : "4",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "5",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "6",
+        "x" : 0,
+        "y" : 0
+      } ],
       "relationships" : [ {
         "id" : "11"
       }, {
         "id" : "10"
-      } ],
-      "elements" : [ {
-        "id" : "4",
-        "x" : 255,
-        "y" : 219
-      }, {
-        "id" : "5",
-        "x" : 255,
-        "y" : 819
-      }, {
-        "id" : "6",
-        "x" : 255,
-        "y" : 1419
       } ]
     } ],
     "configuration" : {
@@ -237,7 +232,6 @@
         } ]
       },
       "terminology" : { },
-      "metadataSymbols" : "SquareBrackets",
       "lastSavedView" : "Component-001",
       "properties" : {
         "generatr.markdown.flexmark.extensions" : "Abbreviation,Admonition,AnchorLink,Attributes,Autolink,Definition,Emoji,Footnotes,GfmTaskList,GitLab,MediaTags,Tables,TableOfContents,Typographic",
