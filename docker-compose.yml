@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+
+  lite:
+    image: structurizr/lite
+    restart: always
+    ports:
+      - 8080:8080
+    volumes:
+      - ./:/usr/local/structurizr
+
+  docs:
+    image: ghcr.io/avisi-cloud/structurizr-site-generatr
+    restart: always
+    command: serve -w workspace.dsl --assets-dir assets
+    ports:
+      - 8088:8080
+    volumes:
+      - ./:/var/model
